@@ -47,6 +47,8 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 
 Please let us know more about your Java experience in a few sentences. For example:
 
-- I have 3 years experience in Java and I started to use Spring Boot from last year
-- I'm a beginner and just recently learned Spring Boot
-- I know Spring Boot very well and have been using it for many years
+- I have 4 years experience in Java
+- I used Spring Boot for about two years while working for a securities exchange company (almost 5 years ago)
+- Looking at the code I am starting to remember more about Spring Boot, but I know I would need more time to catch up / study.
+- I remember some things not being great with @Autowire, but I just read that the process has become better.
+- There could be much more done to expand upon this simple project but I think it would be better to have some requirements given before adding more.

@@ -50,3 +50,4 @@ Application (with the embedded H2 database) is ready to be used ! You can access
 - Looking at the code I am starting to remember more about Spring Boot, but I know I would need more time to catch up / study.
 - I remember some things not being great with @Autowire, but I just read that the process has become better.
 - There could be much more done to expand upon this simple project but I think it would be better to have some requirements given before adding more.
+- All changes made were mostly in the EmployeeController.java . I left comments on what changes would be best to apply and some options.
